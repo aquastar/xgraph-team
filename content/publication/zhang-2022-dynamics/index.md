@@ -1,0 +1,39 @@
+---
+# Documentation: https://docs.hugoblox.com/managing-content/
+
+title: 'From “Dynamics on Graphs” to “Dynamics of Graphs”: An Adaptive Echo-State
+  Network Solution (Student Abstract)'
+subtitle: ''
+summary: ''
+authors:
+- Lei Zhang
+- Zhiqian Chen
+- Chang-Tien Lu
+- Liang Zhao
+tags: []
+categories: []
+date: '2022-01-01'
+lastmod: 2024-03-10T21:29:23-05:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2024-03-11T02:29:23.338680Z'
+publication_types:
+- '1'
+abstract: ''
+publication: '*Proceedings of the AAAI Conference on Artificial Intelligence*'
+---

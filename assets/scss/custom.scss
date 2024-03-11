@@ -1,0 +1,48 @@
+html, .navbar{
+	font-family: Optima, "Avenir Next", Avenir, Calibri, Arial, "josefin sans", sans-serif;
+	font-size: 1rem;
+	background: #f8f9fa;
+}
+
+h1{
+	font-family: Optima, "Avenir Next", Avenir, Calibri, Arial, sans-serif;
+}
+
+.article-container{
+	max-width: 1300px;
+}
+
+.home-section.fullscreen, .fullscreen{
+	min-height: 100px
+}
+
+.text-md-left{
+	max-width: 80%;
+}
+.hero-media{
+	max-width: 20%;
+}
+.hero-lead{
+	max-width: 100%;
+	font-size: 1.2rem;
+}
+.col-md-6{
+	flex: auto;
+}	
+.wg-hero{
+	padding: 0;
+}
+.featurette{
+	font-size: 1rem;
+}
+.featurette-icon{
+	color: #7c0808;
+}
+.btn-primary{
+	background-color: #7c0808;
+	border-color: #470202;
+}
+.btn-primary:hover{
+	background-color: #9e0000;
+	border-color: #7d0000;
+}
