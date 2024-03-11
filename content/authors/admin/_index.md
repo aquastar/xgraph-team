@@ -35,7 +35,7 @@ bio:
 
 name_pronunciation: 
 title: Zhiqian Chen
-role: Assistant Professor
+role: PI, Assistant Professor
 bio: My research interests include graph learningwith particular interest in
   graph dynamics.
 social:

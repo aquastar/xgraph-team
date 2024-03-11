@@ -13,8 +13,8 @@ main:
   - name: Publications
     PageRef: publication/_index.md
     weight: 30
-  - name: Teach
-    PageRef: teach.md
+  - name: People
+    PageRef: people.md
     weight: 40
   - name: Tutorial
     weight: 50
