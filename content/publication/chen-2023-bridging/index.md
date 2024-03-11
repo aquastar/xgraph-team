@@ -39,7 +39,7 @@ image:
 projects: []
 publishDate: '2024-03-11T02:29:26.520642Z'
 publication_types:
-- 2
+- '2'
 abstract: ''
 publication: '*ACM Computing Surveys*'
 ---
