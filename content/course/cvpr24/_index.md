@@ -1,5 +1,5 @@
 ---
-title: 📊 Spectral and Spatial Graph Neural Networks
+title: Unifying Spectral and Spatial Graph Neural Networks
 linkTitle: Spectral Graph
 summary: An example of using Hugo Blox Builder's Book layout for publishing online courses.
 date: '2024-01-24'
