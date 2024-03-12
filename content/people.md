@@ -1,5 +1,5 @@
 ---
-title: Members (Alphabetical Order by Last Name)
+title: Members (Alphabetical Order by Last Name and First Name)
 date: 2024-01-01
 ---
 
