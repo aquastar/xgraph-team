@@ -39,21 +39,22 @@ role: PI, Assistant Professor
 bio: My research interests include graph learningwith particular interest in
   graph dynamics.
 social:
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?hl=en&user=NC3-O6UAAAAJ
-  - icon: cv
-    icon_pack: ai
-    link: cv.pdf
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/aquastar
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/i/lists/1250150327418081281
-  - icon: square-twitter
-    icon_pack: fab
-    link: https://twitter.com/imczq
+  - icon: "globe"  # Suggests a personal or professional website, using Font Awesome Solid (fas)
+    icon_pack: "fas"
+    link: "https://imczq"
+  - icon: "graduation-cap"  # Changed from google-scholar to a more general academic icon
+    icon_pack: "fas"  # Changed from ai to Font Awesome Solid (fas) for a consistent look
+    link: "https://scholar.google.com/citations?hl=en&user=NC3-O6UAAAAJ"
+  - icon: "briefcase"  # Changed from cv to a direct representation of a PDF file
+    icon_pack: "fas"  # Changed from ai to Font Awesome Solid (fas) for a consistent look
+    link: "cv.pdf"
+  - icon: "github"
+    icon_pack: "fab"  # Remains the same for GitHub, using Font Awesome Brands (fab)
+    link: "https://github.com/aquastar"
+  - icon: "twitter-square"  # Changed from square-twitter for correct icon naming in Font Awesome
+    icon_pack: "fab"  # Remains the same for Twitter, using Font Awesome Brands (fab)
+    link: "https://twitter.com/imczq"
+
 
 status:
   icon: 👨🏻‍💻

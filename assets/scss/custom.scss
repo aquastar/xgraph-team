@@ -9,7 +9,10 @@ h1{
 }
 
 .article-container{
-	max-width: 1300px;
+	max-width: 1500px;
+}
+.home-section{
+	padding: 30px;
 }
 
 .home-section.fullscreen, .fullscreen{
@@ -45,4 +48,21 @@ h1{
 .btn-primary:hover{
 	background-color: #9e0000;
 	border-color: #7d0000;
+}
+
+
+.card{
+	width: 49%;
+	display: inline-block;
+	height: 200px;
+	min-width: 300px;
+}
+.card.course{
+	margin-bottom: 5px;
+}
+.card-body img{
+	height: 50px;
+}
+.card-body{
+	padding: 1rem;
 }
