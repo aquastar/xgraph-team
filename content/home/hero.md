@@ -11,7 +11,7 @@ design:
     gradient_end: 'rgb(255, 255, 255)'
     text_color_light: false
 cta:
-  url: 'post/research-statement'
+  url: '/research/'
   label: See Research Statement
   icon_pack: fas
   icon: user-graduate
