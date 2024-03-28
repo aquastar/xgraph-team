@@ -41,7 +41,7 @@ bio: My research interests include graph learningwith particular interest in
 social:
   - icon: "globe"  # Suggests a personal or professional website, using Font Awesome Solid (fas)
     icon_pack: "fas"
-    link: "https://imczq"
+    link: "https://imczq.com"
   - icon: "graduation-cap"  # Changed from google-scholar to a more general academic icon
     icon_pack: "fas"  # Changed from ai to Font Awesome Solid (fas) for a consistent look
     link: "https://scholar.google.com/citations?hl=en&user=NC3-O6UAAAAJ"
