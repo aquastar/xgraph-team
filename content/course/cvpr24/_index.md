@@ -1,7 +1,7 @@
 ---
-title: Unifying Spectral and Spatial Graph Neural Networks
+title: CVPR 24' Tutorial - Unifying Spectral and Spatial Graph Neural Networks
 linkTitle: Spectral Graph
-summary: An example of using Hugo Blox Builder's Book layout for publishing online courses.
+summary: How to unify spectral and spatial graph neural networks
 date: '2024-01-24'
 type: book
 tags:
