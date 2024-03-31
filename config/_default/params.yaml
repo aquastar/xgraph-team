@@ -17,14 +17,14 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo learning theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    org_name: 'Mississippi State University'
+    description: 'Zhiqian Chen, Researcher, Developer, and Educator'
+    twitter: 'imczq'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-QNZDE3B635'
     baidu_tongji: ''
     google_tag_manager: ''
-    microsoft_clarity: ''
+    microsoft_clarity: 'lpca7f9irk'
   verification:
     google: ''
     baidu: ''
