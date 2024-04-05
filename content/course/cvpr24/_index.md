@@ -36,7 +36,8 @@ This tutorial is mainly based on our [paper acccepted by ACM Computing Survey](h
 We have a set of previous [tutorial slides for 1-hour talk](https://imczq.com/csur.pdf), which will be extended to a 3-hour tutorial.
 We have been maintaining a collection of related sources at [GitHub](https://github.com/XGraph-Team/Spectral-Graph-Survey).
 
-## Meet your instructor 
+## Presenters, Time and Location
+Room 5, 2-5pm, June 18, 2024.
 {{< spoiler text="Presenter: **Dr. Zhiqian Chen** @ Mississippi State University" >}}
 Dr. Zhiqian Chen is an Assistant Professor in the Department of Computer Science and Engineering at Mississippi State University. Specializing in graph machine learning and its applications, Dr. Chen has an impressive portfolio of research published in esteemed journals and conferences such as AAAI, IJCAI, IEEE ICDM, EMNLP, ACM Computing Surveys, and Nature Communication. Beyond his scholarly contributions, he has been an active reviewer for prestigious academic platforms including AAAI, ICML, ICLR, NeuralPS, and SIGKDD. Dr. Chen's research endeavors have garnered support from the National Science Foundation (NSF) and the United States Department of Agriculture (USDA). His accolades include an Outstanding Contribution Award from Toyota Research North America in 2016 and a Best Paper Award from ACM SIGSPATIAL.
 {{< /spoiler >}}
