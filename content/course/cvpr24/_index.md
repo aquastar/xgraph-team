@@ -33,8 +33,8 @@ We provide an in-depth analysis of the latest research developments in GNNs in t
 
 ## Materials/Resources to be distributed
 - CVPR 2024 tutorial [official page](https://cvpr.thecvf.com/virtual/2024/tutorial/23726)
-- [Slides version for CVPR 24'](https://xgraph.team/cvpr24.pdf).
-- Major reference paper [paper acccepted by ACM Computing Survey](https://dl.acm.org/doi/full/10.1145/3627816)
+- [Slides version for CVPR 24'](https://xgraph.team/cvpr24.pdf)
+- [Major reference paper](https://dl.acm.org/doi/full/10.1145/3627816) in ACM Computing Survey
 - A collection of related sources at [GitHub](https://github.com/XGraph-Team/Spectral-Graph-Survey).
 
 ## Presenters, Time and Location
