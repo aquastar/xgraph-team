@@ -32,8 +32,8 @@ We provide an in-depth analysis of the latest research developments in GNNs in t
 
 
 ## Materials/Resources to be distributed
-This tutorial is mainly based on our [paper acccepted by ACM Computing Survey](https://dl.acm.org/doi/full/10.1145/3627816) and research papers in spectral graph neural networks.
-We have a set of previous [tutorial slides for 1-hour talk](https://imczq.com/csur.pdf), which will be extended to a 3-hour tutorial.
+This tutorial is mainly based on our [paper acccepted by ACM Computing Survey](https://dl.acm.org/doi/full/10.1145/3627816).
+Check the [slides version for CVPR 24'](https://imczq.com/cvpr24.pdf).
 We have been maintaining a collection of related sources at [GitHub](https://github.com/XGraph-Team/Spectral-Graph-Survey).
 
 ## Presenters, Time and Location
